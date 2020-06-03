@@ -17,4 +17,4 @@ PySpark familiarisation through building boiler plates for common data science p
 
 ## Authors
 
-* **Glendon Thaiw** - 
+* **Glendon Thaiw** 
